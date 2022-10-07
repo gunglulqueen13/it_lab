@@ -1,3 +1,4 @@
 .metadata/
 doNotTrackFile
 datafiles/information.txt
+*.py[co]
